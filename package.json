@@ -1,0 +1,16 @@
+{
+  "name": "capstone-nodejs-1",
+  "version": "1.0.0",
+  "description": "Side Hustle Internship 5.0 NodeJs Capstone Project 1",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
